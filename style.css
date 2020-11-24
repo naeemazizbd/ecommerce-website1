@@ -1,0 +1,42 @@
+.logo1{
+    width: 90px;
+}
+.navber{
+    position: sticky;
+}
+.bg-color{
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: brown;
+}
+.buy-nowbutton{
+   width: 150px;
+    background-color: brown;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+
+}
+.card{
+   
+    border: none;
+    box-shadow: 2px 2px 6px gray;
+    border-radius: 15px;
+}
+.card-footer{
+    border-top: none;
+    text-align: center;
+}
+.buy-nowbutton:hover{
+    background-color: indigo;
+    color: khaki;
+}
+.cateagories{
+    text-align: center;
+}
